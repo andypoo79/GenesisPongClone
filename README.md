@@ -1,13 +1,3 @@
 # GenesisPongClone
 
-  
-1
-2
-3
-4
-5
-6
-7
-8
-90
-
+A simple pong clone for the Sega Genesis / Megadrive build using SGDK and visual studio code
