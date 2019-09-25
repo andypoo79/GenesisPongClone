@@ -49,8 +49,9 @@ int main( )
 	VDP_loadTileSet(bgtile.tileset,1,DMA);
 	VDP_setPalette(PAL1, bgtile.palette->data);
 	VDP_fillTileMapRect(PLAN_A,TILE_ATTR_FULL(PAL1,0,FALSE,FALSE,1),0,0,40,30);
+	VDP_setPalette(PAL2, imgball.palette->data);
 	SPR_init(0,0,0);
-	ball = SPR_addSprite(&imgball,100,100,TILE_ATTR(PAL1,0, FALSE, FALSE));
+	ball = SPR_addSprite(&imgball,100,100,TILE_ATTR(PAL2,0, FALSE, FALSE));
 
 	while(1)
 	{
