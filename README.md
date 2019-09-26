@@ -1,4 +1,4 @@
-Simple PONG clone for the sega genesis / megadrive RGS collaboration.
+Simple PONG clone for the sega genesis/megadrive RGS collaboration project.
 
 Instructions for windows:-
 install sgdk to C:/sgdk
