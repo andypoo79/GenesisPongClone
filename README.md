@@ -19,8 +19,11 @@ open folder in MSVC C:/sgdk/GenesisPongClone
 <h2>The environment is now set up ready for to development.</h2>
 <p>
 main.c is the main code
+  
 res/sprites contains sprites
+
 res/tiles contains tiles and the background
+
 res/xgm contains music
 
 to compile press ctrl-shft-B
