@@ -16,7 +16,7 @@ check the folder is correctly located C:/sgdk/GenesiPongClone or the ctrl-shft-B
 
 open folder in MSVC C:/sgdk/GenesisPongClone
 <p>
-<h2>The environment is now set up ready for to development.<h2>
+<h2>The environment is now set up ready for to development.</h2>
 <p>
 main.c is the main code
 res/sprites contains sprites
@@ -32,3 +32,4 @@ enjoy!
 
 Andy H
 <p>
+
