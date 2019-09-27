@@ -1,4 +1,4 @@
-Simple PONG clone for the sega genesis/megadrive RGS collaboration project.
+<h1>Simple PONG clone for the sega genesis/megadrive RGS collaboration project.<h1>
 
 </div>
 
@@ -16,7 +16,7 @@ check the folder is correctly located C:/sgdk/GenesiPongClone or the ctrl-shft-B
 
 open folder in MSVC C:/sgdk/GenesisPongClone
 
-The environment is now set up to develop.
+<h2>The environment is now set up ready for to development.<h2>
 
 main.c is the main code
 res/sprites contains sprites
