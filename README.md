@@ -10,7 +10,7 @@ clone this folder to C:/sgdk/
 
 open folder in MSVC C:/sgdk/GenesisPongClone
 
-edit away! 
+the environment is now set up to develop.
 
 main.c is the main code
 res/sprites contains sprites
