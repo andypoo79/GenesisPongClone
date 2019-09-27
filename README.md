@@ -1,16 +1,22 @@
 Simple PONG clone for the sega genesis/megadrive RGS collaboration project.
 
+</div>
+
 Instructions for windows:-
 
 install sgdk to C:/sgdk
 
 install microsoft visual code (MSVC)
 
-clone this folder to C:/sgdk/ 
+Clone this folder to C:/sgdk/
+
+or unzip to C:/sgdk/GenesiPongClone
+
+check the folder is correctly located C:/sgdk/GenesiPongClone or the ctrl-shft-B compile will fail to function.
 
 open folder in MSVC C:/sgdk/GenesisPongClone
 
-the environment is now set up to develop.
+The environment is now set up to develop.
 
 main.c is the main code
 res/sprites contains sprites
