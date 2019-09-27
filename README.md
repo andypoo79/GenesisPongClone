@@ -1,4 +1,4 @@
-<h1>Simple PONG clone for the sega genesis/megadrive RGS collaboration project.<h1>
+<h1>Simple PONG clone for the sega genesis/megadrive RGS collaboration project.</h1>
 
 </div>
 
